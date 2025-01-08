@@ -18,4 +18,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guruashish-dev&layout=compact&theme=radical)
 
-[![Ashish's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guruashish-dev&theme=radical)](https://github.com/guruashish-dev/github-readme-stats)
+[![Ashish's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guruashish-dev&langs_count=5)](https://github.com/guruashish-dev/github-readme-stats)
