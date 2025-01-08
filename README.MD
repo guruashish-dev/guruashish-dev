@@ -6,10 +6,10 @@
 # Connect with Me!
 
 ## LinkedIn
-[![LinkedIn Profile]( <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
+[![LinkedIn Profile](click here for linkedin virus)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
 
 ## Discord
-[![Discord Profile](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo)](https://discordapp.com/users/y762013746687115343)
+[![Discord Profile](click here for discord virus)](https://discordapp.com/users/y762013746687115343)
 
 
 ## 📊 My Stats
