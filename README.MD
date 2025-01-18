@@ -6,16 +6,11 @@
 # Connect with Me!
 
 ## LinkedIn
-<a href="https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 50px; height: 50px;">
-</a>
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
 
 
 ## Discord
-<a href="(https://www.linkedin.com/in/your-profile-link)
-(https://discordapp.com/users/y762013746687115343)" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo.svg" alt="Discord" style="width: 50px; height: 50px;">
-</a>
+[![Discord](https://upload.wikimedia.org/wikipedia/commons/9/95/Discord_Logo_2023.svg)](https://discordapp.com/users/y762013746687115343)
 
 ## 📊 My Stats
 
