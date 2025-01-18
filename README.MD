@@ -6,10 +6,11 @@
 # Connect with Me!
 
 ## LinkedIn
-[![LinkedIn Profile](click here for linkedin virus)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
+
 
 ## Discord
-[![Discord Profile](click here for discord virus)](https://discordapp.com/users/y762013746687115343)
+[![Discord](https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo.svg)](https://discordapp.com/users/y762013746687115343)
 
 
 ## 📊 My Stats
