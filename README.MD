@@ -2,6 +2,15 @@
 
 - 🌱 I’m currently learning Python and web development.
 - 💻 Exploring exciting tech projects.
+
+I CODE WITH
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+
 # Connect with Me!
 <div align="left">
   <a href="https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/" target="_blank">
