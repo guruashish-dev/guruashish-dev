@@ -1,4 +1,4 @@
-# Hi👋, I'm Guru Ashish! 
+### Hi👋, I'm Guru Ashish! 
 
 - 🌱 I’m currently learning Python and web development.
 - 💻 Exploring exciting tech projects.
