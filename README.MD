@@ -6,12 +6,16 @@
 # Connect with Me!
 
 ## LinkedIn
-[![LinkedIn](https://www.google.com/imgres?q=discord%20logo%20website%20for%20github&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F6257adef93867e50d84d30e2%2F653714c174fc6c8bbea73caf_636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg&imgrefurl=https%3A%2F%2Fdiscord.com%2Fbranding&docid=bPlUyiLqyfPSKM&tbnid=mAfy4JLNLQfULM&vet=12ahUKEwjY5_rN8v6KAxUSyqACHdXtPJIQM3oECFoQAA..i&w=800&h=605&hcb=2&ved=2ahUKEwjY5_rN8v6KAxUSyqACHdXtPJIQM3oECFoQAA)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
+<a href="https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 50px; height: 50px;">
+</a>
 
 
 ## Discord
-[![Discord](https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo.svg)](https://discordapp.com/users/y762013746687115343)
-
+<a href="(https://www.linkedin.com/in/your-profile-link)
+(https://discordapp.com/users/y762013746687115343)" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo.svg" alt="Discord" style="width: 50px; height: 50px;">
+</a>
 
 ## 📊 My Stats
 
