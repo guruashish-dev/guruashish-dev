@@ -1,5 +1,4 @@
-<img src="https://github.com/guruashish-dev/guruashish-dev/blob/output/snake.svg" alt="Snake animation" />
-# Hi, I'm Guru Ashish! 👋
+# Hi👋, I'm Guru Ashish! 
 
 - 🌱 I’m currently learning Python and web development.
 - 💻 Exploring exciting tech projects.
@@ -12,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
-
+<img src="https://github.com/guruashish-dev/guruashish-dev/blob/output/snake.svg" alt="Snake animation" />
 
 ## 📊 My Stats
 
