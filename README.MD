@@ -5,12 +5,24 @@
 - 💻 Exploring exciting tech projects.
 # Connect with Me!
 
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/y762013746687115343" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+
+
 ## LinkedIn
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/)
 
 
 ## Discord
-[![Discord](https://upload.wikimedia.org/wikipedia/commons/9/95/Discord_Logo_2023.svg)](https://discordapp.com/users/y762013746687115343)
+[![Discord]()](https://discordapp.com/users/y762013746687115343)
 
 ## 📊 My Stats
 
