@@ -1,6 +1,6 @@
 ### Hi👋, I'm Tejasree! 
 
-- 🌱 I’m currently learning , Python
+- 🌱 I’m currently learning C, Python and Web development
 - 💻 Exploring exciting tech projects.
 
 I CODE WITH
@@ -25,6 +25,3 @@ I CODE WITH
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
-## 📊 My Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreesagiraju&layout=compact&theme=radical)
