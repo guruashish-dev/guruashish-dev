@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python and web development.
 - 💻 Exploring exciting tech projects.
 
+https://linktr.ee/guru06ashish
+
 I CODE WITH
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" />
