@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=guruashish-dev&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
+ 
 
 # 🚀 About Me
 
@@ -34,7 +34,6 @@ Currently Learning:
 🔗 Links
 https://linktr.ee/guru06ashish
 
----
 
 # ⚙️ Tech Stack
 
@@ -48,7 +47,7 @@ https://linktr.ee/guru06ashish
 
 </p>
 
----
+ 
 
 # 📊 GitHub Statistics
 
@@ -60,7 +59,7 @@ https://linktr.ee/guru06ashish
 
 </p>
 
----
+ 
 
 # 🔥 GitHub Streak
 
@@ -68,7 +67,7 @@ https://linktr.ee/guru06ashish
 <img src="https://streak-stats.demolab.com/?user=guruashish-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+ 
 
 # 🏆 GitHub Trophies
 
@@ -76,7 +75,7 @@ https://linktr.ee/guru06ashish
 <img src="https://github-profile-trophy.vercel.app/?username=guruashish-dev&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
----
+ 
 
 # 📈 Contribution Activity
 
@@ -84,7 +83,7 @@ https://linktr.ee/guru06ashish
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guruashish-dev&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+ 
 
 # 🐍 Contribution Snake
 
@@ -92,7 +91,7 @@ https://linktr.ee/guru06ashish
 <img src="https://github.com/guruashish-dev/guruashish-dev/blob/output/snake.svg"/>
 </p>
 
----
+ 
 
 # 🌐 Connect With Me
 
@@ -108,7 +107,7 @@ https://linktr.ee/guru06ashish
 
 </p>
 
----
+ 
 
 # 🧠 Dev Quote
 
@@ -116,7 +115,7 @@ https://linktr.ee/guru06ashish
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
+ 
 
 # ⚡ Terminal
 
@@ -135,7 +134,7 @@ me = Developer()
 me.say_hi()
 ```
 
----
+ 
 
 <p align="center">
 ⭐ If you like my projects, consider starring them.
